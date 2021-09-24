@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 I am a .NET/C# software engineer with experience as a SharePoint developer/administrator 
+- :mortar_board: Law school graduate, postgraduate in Software Engineering
+- 🏢 Currently working for BDO Norge
+- 🔉 Learning Norwegian in the meantime
+- :books: Studying for AZ-204
+- :snowflake: Trondheim, Norway
 
 <!--
 **mariazieba/mariazieba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
