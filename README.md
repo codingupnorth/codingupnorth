@@ -2,7 +2,6 @@
 - :mortar_board: Law school graduate, postgraduate in Software Engineering
 - 🏢 Currently working for BDO Norge
 - 🔉 Learning Norwegian in the meantime
-- :books: Studying for AZ-204
 - :snowflake: Trondheim, Norway
 
 <!--
