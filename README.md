@@ -1,7 +1,7 @@
 - 👋 I am a .NET/C# software engineer with experience as a SharePoint developer/administrator 
 - :mortar_board: Law school graduate, postgraduate in Software Engineering
-- 🏢 Currently working for BDO Norge
-- 🔉 Learning Norwegian in the meantime
+- 🔉 AZ-204, AZ-900 certified
+- :books: Learning Blazor and preparing to AZ-400 in the meantime
 - :snowflake: Trondheim, Norway
 
 <!--
